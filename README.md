@@ -20,11 +20,11 @@ If there's one skill I've honed over the years, it's coding and designing with S
 
 - **📘 [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)** - 100+ best practices with code examples for a modern backend, including tips about architecture, security, testing, performance, hardening and more
 
-   _📊 4 million visitors, 96,000 stars_
+   _📊 4 million visitors, 100,000 stars_
 
 - **📘 [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) -** 50+ best practices with code examples for testing JavaScript apps, including tips about mocking, clean tests, testing strategy, api tests, UI tests and more
 
-   _📊 2.5 million visitors, 25,000 stars_
+   _📊 2.5 million visitors, 24,000 stars_
 
 - **📘 [Component testing best practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) -** A minibook about the art of backend component/integration tests. It shows with code examples how to meet both great develoepr experience and also high realism and risk coverage. The text cover all the key aspects of component tests: dealing with APIs, testing with data(base), testing message queues, testing integrations with other services, testing the component SecOps parts
    
@@ -36,6 +36,12 @@ Want to read more? See below a full list of publications
 
 Want to work together? yay 🥳. Here are the 3 main services that I provide:
 
+### Architecture planning and consulting
+
+Over the years, I’ve had the opportunity to plan challenging systems with large organizations (see customer list below). I remember once a customer asked me to plan a big system with a team of developers. After weeks of hard work, we came up with a skeleton. Some stakeholders were disappointed to see that the skeleton was only 300 lines of code and contained very few patterns and layers. "What took you so long?" they wondered.
+
+"We carefully chose valuable popular tools to do most of the work for us and removed any unnecessary overhead," we explained. For me, simplicity is the ultimate sophistication. Fast forward a year, and most of the organization learned to appreciate that flat and nimble architecture that everyone can understand in hours, not weeks
+
 ### Coding for you
 
 My bread and butter activity. I code primarily in JavaScript (Node.js, Rect) and Python, though happy to code in other modern languages like Go and Kotlin. What makes me a reliable developer? I strive for simple code. Many others say this, but me? Even medium-level code complexity makes me sweat with unease in my chair. I fear complexity! This drives me to write highly standardized code,  avoiding reinventing new wheels, and just keeping it lean and nimble
@@ -44,11 +50,6 @@ My bread and butter activity. I code primarily in JavaScript (Node.js, Rect) and
 
 I worked with dozens of org worldwide on boosting their testing skills, using various training methods including a comprehensive workshop. [See more details here including a short summary video](https://testjavascript.com/elevate-your-org-testing-game)
 
-### Architecture planning and consulting
-
-Over the years, I’ve had the opportunity to plan challenging systems with large organizations (see customer list below). I remember once a customer asked me to plan a big system with a team of developers. After weeks of hard work, we came up with a skeleton. Some stakeholders were disappointed to see that the skeleton was only 300 lines of code and contained very few patterns and layers. "What took you so long?" they wondered.
-
-"We carefully chose valuable popular tools to do most of the work for us and removed any unnecessary overhead," we explained. For me, simplicity is the ultimate sophistication. Fast forward a year, and most of the organization learned to appreciate that flat and nimble architecture that everyone can understand in hours, not weeks
 
 ## Among my customers
 
