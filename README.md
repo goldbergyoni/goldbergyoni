@@ -5,7 +5,7 @@
 I stumbled into the world of programming by accident, discovering a programming book at my parents' house. It was 9 PM when I began flipping through its pages, and suddenly, sun rays were streaming through the window—morning had arrived. I was amazed by this incredible science, feeling like Alice in Wonderland. Ever since then, I've been in love with this. I code, consult, write about it, and speak about it worldwide. My blog has welcomed over 7 million visitors, and my GitHub repositories have earned 126,000 stars.
 
 
-![alice-in-wonderland](https://github.com/user-attachments/assets/bcb904f9-7edb-4475-bc00-b02eb4370219)
+![alice-in-tea-party](https://github.com/user-attachments/assets/15a1ee93-22c7-4923-83a5-d6768ae305bf)
 
 If there's one skill I've honed over the years, it's coding and designing with SIMPLICITY in mind. I always strive to find the sweet spot between robustness and simplicity, considering it one of the finest arts of our profession. While I'm curious about many aspects of software, it's Testing that I love a little more. I've had the privilege to work with over 40 organizations worldwide, including some giant companies you probably know, enhancing their testing processes. I'm a big fan of the new testing paradigm—the testing diamond—and believe that tests should blend seamlessly and effortlessly into developers' workflows.
 
