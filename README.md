@@ -5,7 +5,7 @@
 I stumbled into the world of programming by accident, discovering a programming book at my parents' house. It was 9 PM when I began flipping through its pages, and suddenly, sun rays were streaming through the window—morning had arrived. I was amazed by this incredible science, feeling like Alice in Wonderland. Ever since then, I've been in love with this. I code, consult, write about it, and speak about it worldwide. My blog has welcomed over 7 million visitors, and my GitHub repositories have earned 126,000 stars.
 
 
-![image](https://github.com/goldbergyoni/goldbergoni/assets/8571500/ed1d77f4-111e-4d60-b9d6-e0c20157ea84)
+![alice-in-wonderland](https://github.com/user-attachments/assets/bcb904f9-7edb-4475-bc00-b02eb4370219)
 
 If there's one skill I've honed over the years, it's coding and designing with SIMPLICITY in mind. I always strive to find the sweet spot between robustness and simplicity, considering it one of the finest arts of our profession. While I'm curious about many aspects of software, it's Testing that I love a little more. I've had the privilege to work with over 40 organizations worldwide, including some giant companies you probably know, enhancing their testing processes. I'm a big fan of the new testing paradigm—the testing diamond—and believe that tests should blend seamlessly and effortlessly into developers' workflows.
 
@@ -49,14 +49,16 @@ Over the years, I’ve had the opportunity to plan challenging systems with larg
 
 ## Among my customers
 
-![Screen Shot 2024-07-02 at 13 10 30](https://github.com/goldbergyoni/goldbergoni/assets/8571500/79ce56ea-ac02-4107-a540-ba3c993292f2)
+![Screenshot 2024-10-10 at 12 06 30](https://github.com/user-attachments/assets/a0be98e8-e83a-4e0c-8a70-204bd0cf9beb)
 
 
 ## Public speaking
 
+As a consultant and a blogger, speaking is home to me. I typically speak about strategic backend concepts like testing and architecture and bring to stage advanced and shiny topics. If you’d like to invite me to your conference, please approach using any of the methods here.
 
+See below a glimpse of me speaking at conferences:
 
-[![Yoni Goldberg, Kharkivjs](./media/IMG_20191006_103912_1.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=P7bnmbw6quY))
+https://github.com/user-attachments/assets/1f07afc5-e1d7-4626-bec4-da634d6ae013
 
 ## Reach out
 
