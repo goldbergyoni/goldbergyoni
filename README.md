@@ -32,7 +32,7 @@ If there's one skill I've honed over the years, it's coding and designing with S
 
 Want to read more? See below a full list of publications
 
-## Hire me
+## Let's work together
 
 Want to work together? yay 🥳. Here are the 3 main services that I provide:
 
