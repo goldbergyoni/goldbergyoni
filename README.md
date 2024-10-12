@@ -71,18 +71,87 @@ https://github.com/user-attachments/assets/1f07afc5-e1d7-4626-bec4-da634d6ae013
 
 ## All my blog posts and videos ever
 
-- 🗞️ Article: [About the sweet and powerful 'use case' code pattern](https://practica.dev/blog/sweet-use-case-pattern)
--  🎬 YouTube: [A compilation of outstanding testing articles (with JavaScript)](https://practica.dev/blog/testing-articles-compilation)
-- 🎧 Podcast: [Testing the dark scenarios of your Node.js application](https://practica.dev/blog/testing-dark-scenarios-nodejs)
-- [Practica v0.0.6 is alive](https://practica.dev/blog/practica-v0-0-6-release)
-- [Is Prisma better than your 'traditional' ORM?](https://practica.dev/blog/prisma-vs-traditional-orm)
-- [20 ways to become a better Node.js developer in 2020](https://goldbergyoni.com/blog/20-ways-to-become-better-nodejs-developer)
-- [30+ Node.js & JavaScript Testing Best Practices](https://goldbergyoni.com/blog/nodejs-testing-best-practices)
-- [19 ways to become a better Node.JS developer in 2019](https://goldbergyoni.com/blog/19-ways-to-become-better-nodejs-developer)
-- [‘Should it be a Microservice?’](https://goldbergyoni.com/blog/should-it-be-a-microservice)
-- [Advanced Node.js testing tools – slides from my talk](https://goldbergyoni.com/blog/advanced-nodejs-testing-tools)
-- [Node.js security best practices](https://goldbergyoni.com/blog/nodejs-security-best-practices)
-- [My new GitHub project: Node.JS best practices](https://goldbergyoni.com/blog/nodejs-best-practices)
-- [Checklist: Node.JS production best practices (August 2018)](https://goldbergyoni.com/blog/nodejs-production-best-practices)
-- [Follow my Node.JS best practices social pages](https://goldbergyoni.com/blog/follow-nodejs-best-practices-social-pages)
-- [Easily deploying microservices to AWS Elastic Beanstalk](https://goldbergyoni.com/blog/easily-deploying-microservices-to-aws-elastic-beanstalk)
+Markdown
+
+🎬YouTube: [Yoni Goldberg @ Node.TLV '24 | Reliable API Integration: Modern Workflows And Testing Techniques](https://www.youtube.com/watch?v=i8Uxgd_Lfi4&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=3) 08/03/2024
+
+🎬YouTube: [Yoni Goldberg @ NodeTLV '23 | Strategic Node.js crossroads in 2023](https://www.youtube.com/watch?v=T8apl4s5tVY&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=1) 07/24/2024
+
+🗞️Article: [About the sweet and powerful 'use case' code pattern](https://practica.dev/blog/about-the-sweet-and-powerful-use-case-code-pattern/) 04/22/2024
+
+🗞️Article: [A compilation of outstanding testing articles (with JavaScript)](https://practica.dev/blog/a-compilation-of-outstanding-testing-articles-with-javaScript/) 08/06/2023
+
+🗞️Article: [Testing the dark scenarios of your Node.js application](https://practica.dev/blog/testing-the-dark-scenarios-of-your-nodejs-application/) 07/07/2023
+
+🎧Podcast: [Episode 36: NodeJS in 2023 Part 1 - With Yoni Goldberg](https://open.spotify.com/episode/4sFhweqc6Cym49Ke1JClLp) 04/2023 #Hebrew
+
+🎬YouTube: [Node.js strategic crossroads in 2022/2023 - Yoni Goldberg (Hebrew)](https://www.youtube.com/watch?v=P1FLJ407voc&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=5) 11/09/2022 #Hebrew
+
+🗞️Article: [Is Prisma better than your 'traditional' ORM?](https://practica.dev/blog/is-prisma-better-than-your-traditional-orm/) 12/07/2022
+
+🗞️Article: [Which Monorepo is right for a Node.js BACKEND now?](https://practica.dev/blog/monorepo-backend/) 11/07/2022
+
+🗞️Article: [Popular Node.js patterns and tools to re-consider](https://practica.dev/blog/popular-nodejs-pattern-and-tools-to-reconsider/) 08/02/2022
+
+🗞️Article: [Practica.js v0.0.1 is alive](https://practica.dev/blog/practica-is-alive/) 07/15/2022
+
+🎧Podcast: [Yoni Goldberg on Integration Tests with JavaScript](https://open.spotify.com/episode/39B924oetSXDrxHbZii0b1) 07/2021
+
+🎧Podcast: [Episode 37: NodeJS in 2023, Part 2 with Yoni Goldberg](https://open.spotify.com/episode/4sFhweqc6Cym49Ke1JClLp) 05/2021
+
+🎬YouTube: [Fruitful CI/CD Practices - Liran Tal, Yoni Goldberg and Gil Tayar | JSHeroes Meetups](https://www.youtube.com/watch?v=mkee-iCAWxc&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=7) 05/18/2020
+
+🎧Podcast: [Best practices for Node developers (JS Party #139)](https://open.spotify.com/episode/4RSC81QNmRv0mDlDYtSLof) 08/2020
+
+🎧Podcast: [Best practices for Node developers](https://open.spotify.com/episode/4RSC81QNmRv0mDlDYtSLof) 08/2020
+
+🗞️Article: [Popular Node.js patterns and tools to re-consider](https://yonigoldberg.medium.com/popular-node-js-patterns-and-tools-to-re-consider-45302d14db61) 12/12/2022
+
+🗞️Article: [20 ways to become a better Node.js developer in 2020](https://goldbergyoni.com/20-ways-to-become-a-better-node-js-developer-in-2020/) 12/12/2019
+
+🎬YouTube: [Yoni Goldberg - JavaScript Testing: Latest 2019 trends, techniques and opportunities](https://www.youtube.com/watch?v=y9Y7bQnxYQY&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=4) 11/02/2019
+
+🎬YouTube: [Yoni Goldberg - JavaScript Testing: Latest 2019 trends, techniques and opportunities](https://www.youtube.com/watch?v=y9Y7bQnxYQY&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=4) 11/02/2019
+
+🎬YouTube: [Yoni Goldberg: Five Advanced & Shiny Testing Techniques | js.la August 2019](https://www.youtube.com/watch?v=qi66cdomP2E&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=6) 11/05/2019
+
+🗞️Article: [30+ Node.js & JavaScript Testing Best Practices](https://goldbergyoni.com/30-node-js-javascript-testing-best-practices/) 01/11/2019
+
+🗞️Article: [19 ways to become a better Node.JS developer in 2019](https://goldbergyoni.com/19-ways-to-become-a-better-node-js-developer-in-2019/) 12/13/2018
+
+🎬YouTube: [Advanced Test Techniques by Yoni Goldberg](https://www.youtube.com/watch?v=lD4ECpeeVVg&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=2) 11/29/2018
+
+🗞️Article: [‘Should it be a Microservice?’](https://goldbergyoni.com/score-game-is-this-a-microservice-checklist-for-microservice-design-verification/) 11/28/2018
+
+🗞️Article: [Advanced Node.js testing tools – slides from my talk](https://goldbergyoni.com/advanced-node-js-testing-tools-slides-from-my-talk/) 10/29/2018
+
+🗞️Article: [Node.js security best practices](https://goldbergyoni.com/node-js-security-best-practices/) 08/01/2018
+
+🗞️Article: [My new GitHub project: Node.JS best practices](https://goldbergyoni.com/my-new-github-project-node-js-best-practices/) 12/31/2017
+
+🗞️Article: [Checklist: Node.JS production best practices (August 2018)](https://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/) 08/05/2017
+
+🗞️Article: [Follow my Node.JS best practices social pages](https://goldbergyoni.com/follow-my-node-js-best-practices-social-pages/) 01/18/2017
+
+🗞️Article: [Easily deploying microservices to AWS Elastic Beanstalk](https://goldbergyoni.com/easily-deploying-microservices-to-aws-elastic-beanstalk/) 07/10/2016
+
+🗞️Article: [Checklist: Best Practices of Node.JS Error Handling (2018)](https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/) 05/05/2016
+
+🗞️Article: [View my keynote session from “JavaScript Israel” conference](https://goldbergyoni.com/my-keynote-session-at-javascript-israel-conference/) 12/15/2015
+
+🗞️Article: [Node.JS in Azure – 10 tips](https://goldbergyoni.com/node-js-in-azure-10-tips/) 12/10/2015
+
+🗞️Article: [10 strategic web UI development best practices](https://goldbergyoni.com/20-strategic-front-end-web-ui-best-practices/) 07/12/2015
+
+🗞️Article: [What is the best way to connect to custom database using BCS?](https://goldbergyoni.com/connecting-to-custom-database-using-bcs/) 12/28/2011
+
+🗞️Article: [40+ SharePoint Workflow Tips – part 3 (Hebrew)](https://goldbergyoni.com/מעל-40-טיפים-לפיתרון-מוצלח-חלק-3-מתוך-4-sharepoint-workflow/) 11/27/2011 #Hebrew
+
+🗞️Article: [40+ SharePoint Workflow Tips – part 4 (Hebrew)](https://goldbergyoni.com/מעל-40-טיפים-לפיתרון-מוצלח-חלק-4-מתוך-4-sharepoint-workflow/) 11/27/2011 #Hebrew
+
+🗞️Article: [40+ SharePoint Workflow Tips – part 2 (Hebrew)](https://goldbergyoni.com/מעל-40-טיפים-לפיתרון-מוצלח-חלק-2-מתוך-4-sharepoint-workflow/) 11/27/2011 #Hebrew
+
+🗞️Article: [40+ SharePoint Workflow Tips – part 1 (Hebrew)](https://goldbergyoni.com/מעל-40-טיפים-לפיתרון-מוצלח-sharepoint-workflow/) 11/21/2011 #Hebrew
+
+
+
