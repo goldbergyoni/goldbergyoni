@@ -2,7 +2,7 @@
 
 ## About me in 2 paragraphs
 
-I stumbled into the world of programming by accident, discovering a programming book at my parents' house. It was 9 PM when I began flipping through its pages, and suddenly, sun rays were streaming through the window—morning had arrived. I was amazed by this incredible science, feeling like Alice in Wonderland. Ever since then, I've been in love with this. I code, consult, write about it, and speak about it worldwide. My blog has welcomed over 7 million visitors, and my GitHub repositories have earned 126,000 stars.
+I stumbled into the world of programming by accident, discovering a programming book at my parents' house. It was 9 PM when I began flipping through its pages, and suddenly, sun rays were streaming through the window—morning had arrived. I was amazed by this incredible science, feeling like Alice in Wonderland. Ever since then, I've been in love with this. I code, consult, write about it, and speak about it worldwide. My blog has welcomed over 7 million visitors, and my GitHub repositories have earned 126,000 stars
 
 <br/>
 
@@ -10,7 +10,7 @@ I stumbled into the world of programming by accident, discovering a programming 
 
 <br/>
 
-If there's one skill I've honed over the years, it's coding and designing with SIMPLICITY in mind. I always strive to find the sweet spot between robustness and simplicity, considering it one of the finest arts of our profession. While I'm curious about many aspects of software, it's Testing that I love a little more. I've had the privilege to work with over 40 organizations worldwide, including some giant companies you probably know, enhancing their testing processes. I'm a big fan of the new testing paradigm—the testing diamond—and believe that tests should blend seamlessly and effortlessly into developers' workflows.
+If there's one skill I've honed over the years, it's coding and designing with SIMPLICITY in mind. I always strive to find the sweet spot between robustness and simplicity, considering it one of the finest arts of our profession. While I'm curious about many aspects of software, it's Testing that I love a little more. I've had the privilege to work with over 40 organizations worldwide, including some giant companies you probably know, enhancing their testing processes. I'm a big fan of the new testing paradigm—the testing diamond—and believe that tests should blend seamlessly and effortlessly into developers' workflows
 
 ## Some Git stats, cause it probably tells something about me
 
@@ -38,9 +38,9 @@ Want to work together? yay 🥳. Here are the 3 main services that I provide:
 
 ### Architecture planning and consulting
 
-Over the years, I’ve had the opportunity to plan challenging systems with large organizations (see customer list below). I remember once a customer asked me to plan a big system with a team of developers. After weeks of hard work, we came up with a skeleton. Some stakeholders were disappointed to see that the skeleton was only 300 lines of code and contained very few patterns and layers. "What took you so long?" they wondered.
+Over the years, I’ve had the opportunity to plan challenging systems with large organizations (see customer list below). I remember once a customer asked me to plan a big system with a team of developers. After weeks of hard work, we came up with a skeleton. Some stakeholders were disappointed to see that the skeleton was only 300 lines of code and contained very few patterns and layers. "What took you so long?" they wondered
 
-"We carefully chose valuable popular tools to do most of the work for us and removed any unnecessary overhead," we explained. For me, simplicity is the ultimate sophistication. Fast forward a year, and most of the organization learned to appreciate that flat and nimble architecture that everyone can understand in hours, not weeks
+"We carefully chose valuable popular tools to do most of the work for us and removed any unnecessary overhead," we explained. For me, simplicity is the ultimate sophistication. Fast forward a year, and most of the organization learned to appreciate that lean and flat architecture that everyone can understand in hours, not weeks
 
 ### Coding for you
 
@@ -58,7 +58,7 @@ I worked with dozens of org worldwide on boosting their testing skills, using va
 
 ## Public speaking
 
-As a consultant and a blogger, speaking is home to me. I typically speak about strategic backend concepts like testing and architecture and bring to stage advanced and shiny topics. If you’d like to invite me to your conference, please approach using any of the methods here.
+As a consultant and a blogger, speaking is home to me. I typically speak about strategic backend concepts like testing and architecture and bring to stage advanced and shiny topics. If you’d like to invite me to your conference, please approach using any of the methods here
 
 See below a glimpse of me speaking at conferences:
 
