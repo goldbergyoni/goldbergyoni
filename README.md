@@ -36,19 +36,19 @@ Want to read more? See below a full list of publications
 
 Want to work together? yay 🥳. Here are the 3 main services that I provide:
 
-### Architecture planning and consulting
+1. ### Architecture planning and consulting
 
 Over the years, I’ve had the opportunity to plan challenging systems with large organizations (see customer list below). I remember once a customer asked me to plan a big system with a team of developers. After weeks of hard work, we came up with a skeleton. Some stakeholders were disappointed to see that the skeleton was only 300 lines of code and contained very few patterns and layers. "What took you so long?" they wondered
 
 "We carefully chose valuable popular tools to do most of the work for us and removed any unnecessary overhead," we explained. For me, simplicity is the ultimate sophistication. Fast forward a year, and most of the organization learned to appreciate that lean and flat architecture that everyone can understand in hours, not weeks
 
-### Coding for you
+2. ### Coding for you
 
 My bread and butter activity. I code primarily in JavaScript (Node.js, Rect) and Python, though happy to code in other modern languages like Go and Kotlin. What makes me a reliable developer? I strive for simple code. Many others say this, but me? Even medium-level code complexity makes me sweat with unease in my chair. I fear complexity! This drives me to write highly standardized code,  avoiding reinventing new wheels, and just keeping it lean and nimble
 
-### Testing enhancements and workshop for your team
+3. ### Testing enhancements and workshop for your team
 
-I worked with dozens of org worldwide on boosting their testing skills, using various training methods including a comprehensive workshop. [See more details here including a short summary video](https://testjavascript.com/elevate-your-org-testing-game)
+I worked with dozens of organizations worldwide to boost their testing skills, using various training methods, including a comprehensive workshop. [See more details here including a short summary video](https://testjavascript.com/elevate-your-org-testing-game)
 
 
 ## Among my customers
