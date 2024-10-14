@@ -71,7 +71,6 @@ https://github.com/user-attachments/assets/1f07afc5-e1d7-4626-bec4-da634d6ae013
 
 ## All my blog posts and videos ever
 
-Markdown
 
 🎬YouTube: [Yoni Goldberg @ Node.TLV '24 | Reliable API Integration: Modern Workflows And Testing Techniques](https://www.youtube.com/watch?v=i8Uxgd_Lfi4&list=PL1CRgzydk3vxGiMcinnLmvCBqRGAjRvcm&index=3) 08/03/2024
 
@@ -153,5 +152,28 @@ Markdown
 
 🗞️Article: [40+ SharePoint Workflow Tips – part 1 (Hebrew)](https://goldbergyoni.com/מעל-40-טיפים-לפיתרון-מוצלח-sharepoint-workflow/) 11/21/2011 #Hebrew
 
+🗞️Article: [SharePoint keyboard productivity tips](https://goldbergyoni.com/launchy-and-other-sharepoint-tools-to-save-keyboard-typing/) 11/01/2011
 
+🗞️Article: [Workflow feedback process – granting one user (the pivot) to decide for all](https://goldbergyoni.com/workflow-feedback-process-granting-one-user-the-pivot-to-decide-for-all/) 10/04/2011 
 
+🗞️Article: [A developer intro to sandboxed solutions](https://goldbergyoni.com/a-developer-intro-to-sandboxed-solution/) 06/13/2011 
+
+🗞️Article: [A new codeplex project: Taxonomy Breadcrumb web part](https://goldbergyoni.com/a-new-codeplex-project-taxonomy-breadcrumb-web-part/) 05/01/2011 
+
+🗞️Article: [Workshop: composite applications in SharePoint](https://goldbergyoni.com/פיתוח-יישומים-דווקא-בשיירפוינט-למה-זה/) 
+03/14/2011 #Hebrew
+
+🗞️Article: [Download my Tech-Ed 2010 BCS presentation code & slides](https://goldbergyoni.com/download-my-tech-ed-2010-bcs-presentation-code-slides/) 
+11/30/2010
+
+🗞️Article: [SharePoint 2010 launching event – download my presentation](https://goldbergyoni.com/sharepoint-2010-launching-event-download-my-presentation/) 07/27/2010 
+
+🗞️Article: [List validation accepts excel functions](https://goldbergyoni.com/list-validation-accepts-excel-functions/) 05/25/2010  
+
+🗞️Article: [ASP.NET web parts demo for download](https://goldbergyoni.com/asp-net-web-parts-demo-for-download/) 05/05/2010  
+
+🗞️Article: [My introduction to SOA](https://goldbergyoni.com/my-introduction-to-soa/) 05/02/2010  
+
+🗞️Article: [Why C# version for DotNetNuke is not (so) important?](https://goldbergyoni.com/why-c-version-for-dotnetnuke-is-not-so-important/) 05/02/2010  
+
+🗞️Article: [Passing objects by reference/value in C#](https://goldbergyoni.com/passing-objects-by-referencevalue-in-c/) 05/23/2010  
