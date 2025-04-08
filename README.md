@@ -26,9 +26,9 @@ If there's one skill I've honed over the years, it's coding and designing with S
 
    _📊 2.5 million visitors, 24,000 stars_
 
-- **📘 [Component testing best practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) -** A minibook about the art of backend component/integration tests. It shows with code examples how to meet both great develoepr experience and also high realism and risk coverage. The text cover all the key aspects of component tests: dealing with APIs, testing with data(base), testing message queues, testing integrations with other services, testing the component SecOps parts
+- **📘 [Node.js testing best practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) -** A minibook about the art of backend component/integration tests. It shows with code examples how to meet both great develoepr experience and also high realism and risk coverage. The text cover all the key aspects of component tests: dealing with APIs, testing with data(base), testing message queues, testing integrations with other services, testing the component SecOps parts
    
-   _📊 120K visitors visitors, 3,200 stars_
+   _📊 120K visitors visitors, 3,500 stars_
 
 Want to read more? See below a full list of publications
 
