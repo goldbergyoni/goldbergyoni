@@ -20,7 +20,7 @@ If there's one skill I've honed over the years, it's coding and designing with S
 
 - **📘 [Node.js best practices](https://github.com/goldbergyoni/nodebestpractices)** - 100+ best practices with code examples for a modern backend, including tips about architecture, security, testing, performance, hardening and more
 
-   _📊 4 million visitors, 100,000 stars_
+   _📊 4 million visitors, 103,000 stars_
 
 - **📘 [JavaScript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices) -** 50+ best practices with code examples for testing JavaScript apps, including tips about mocking, clean tests, testing strategy, api tests, UI tests and more
 
