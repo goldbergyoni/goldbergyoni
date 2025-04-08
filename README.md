@@ -2,7 +2,7 @@
 
 ## About me in 2 paragraphs
 
-I stumbled into the world of programming by accident, discovering a programming book at my parents' house. It was 9 PM when I began flipping through its pages, and suddenly, sun rays were streaming through the window—morning had arrived. I was amazed by this incredible science, feeling like Alice in Wonderland. Ever since then, I've been in love with this. I code, consult, write about it, and speak about it worldwide. My blog has welcomed over 7 million visitors, and my GitHub repositories have earned 126,000 stars
+I stumbled into the world of programming by accident, discovering a programming book at my parents' house. It was 9 PM when I began flipping through its pages, and suddenly, sun rays were streaming through the window—morning had arrived. I was amazed by this incredible science, feeling like Alice in Wonderland. Ever since then, I've been in love with this. I code, consult, write about it, and speak about it worldwide. My blog has welcomed over 7 million visitors, and my GitHub repositories have earned 132,000 stars
 
 <br/>
 
